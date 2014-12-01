@@ -1,0 +1,11 @@
+CMS ID,IPP,NUMER,DENOM,DENEX,DENEXCEP,Result
+CMS122v1,2/2,2/1,2/2,0/0,,Failure
+CMS126v1,3/3,1/1,3/3,1/1,,Success
+CMS127v1,5/5,1/1,5/5,,,Success
+CMS134v1,2/2,1/1,2/2,0/0,,Success
+CMS145v1,2/2,1/1,2/2,,0/0,Success
+CMS148v1,2/2,1/1,2/2,0/0,,Success
+CMS153v1,4/4,1/1,4/4,1/1,,Success
+CMS159v1,2/2,0/1,2/2,0/0,,Failure
+CMS160v1,3/3,2/2,3/3,0/0,,Success
+CMS163v1,2/2,1/1,2/2,0/0,,Success
